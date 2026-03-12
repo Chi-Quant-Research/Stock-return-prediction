@@ -114,36 +114,11 @@ The purpose of the model is to demonstrate the application of machine learning t
 
 # Output
 
-The script produces the following outputs:
-
-**Dataset**
-
-```
-data/stock_features.csv
-```
-
-Contains the engineered features used in the machine learning model.
-
-**Visualization**
-
-```
-results/price_moving_average.png
-```
-
-This chart illustrates the stock price together with the 10-day and 50-day moving averages.
-
-These outputs ensure the project remains fully reproducible.
-
-![Price and Moving Averages](results/price_moving_average.png)
-
-# Output
-
 The script produces the following visualization:
 
 ![Price and Moving Averages](stock_price_with_moving_averages.png)
 
 *Figure 1: Apple Inc. (AAPL) Closing Prices with 10-day and 50-day Moving Averages.*
-
 ---
 
 # Project Structure
@@ -229,4 +204,5 @@ Python libraries used in this project:
 This project is intended for educational and research purposes only.
 
 It does not constitute financial advice or investment recommendations.
+
 
