@@ -136,6 +136,14 @@ These outputs ensure the project remains fully reproducible.
 
 ![Price and Moving Averages](results/price_moving_average.png)
 
+# Output
+
+The script produces the following visualization:
+
+![Price and Moving Averages](stock_price_with_moving_averages.png)
+
+*Figure 1: Apple Inc. (AAPL) Closing Prices with 10-day and 50-day Moving Averages.*
+
 ---
 
 # Project Structure
